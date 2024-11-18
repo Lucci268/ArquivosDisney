@@ -1,0 +1,24 @@
+(Adicionar Filme)
+1
+44
+Abracadabra
+Terror
+
+(Adicionar Usuário)
+2
+09
+Marcos
+
+(Listar Filmes)
+3
+
+(Listar Usuários)
+4
+
+(Adicionar Favorito)
+5
+09
+44
+
+(Sair)
+6
